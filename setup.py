@@ -29,5 +29,6 @@ setup(
     install_requires=[
         'django>=1.8',
         'django-haystack>=2.5.1',
+        'six>=1.0',
     ]
 )
